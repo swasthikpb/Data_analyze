@@ -1,0 +1,657 @@
+Employees who have worked for 7 consecutive days:
++-----+-------------+---------------+-----------------+
+|     | Position ID | Employee Name | Position Status |
++-----+-------------+---------------+-----------------+
+| 638 |  WFS000462  | XiWW, JAsMiW  |     Active      |
++-----+-------------+---------------+-----------------+
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
++------+-------------+---------------------------------+-----------------+
+|      | Position ID |          Employee Name          | Position Status |
++------+-------------+---------------------------------+-----------------+
+| 591  |  WFS000456  |        CEreira Jr, JEse         |     Active      |
+|  53  |  WFS000153  |        CaMaXaWE, CeghaW         |     Active      |
+|  64  |  WFS000153  |        CaMaXaWE, CeghaW         |     Active      |
+| 276  |  WFS000318  |      De Xa Cerda, IgWaciE       |     Active      |
+| 1036 |  WFS000523  | DeXgadiXXE REdarMe, ChrisMiaW S |     Active      |
+| 939  |  WFS000515  |      GrACfieXd, CErWeXiAs       |     Active      |
+| 1074 |  WFS000536  |     HaCiXMEW, DeaWMe DevEW      |     Active      |
+| 301  |  WFS000345  |        MraW, WiXXiaC Ha         |     Active      |
+| 311  |  WFS000345  |        MraW, WiXXiaC Ha         |     Active      |
+| 1161 |  WFS000550  |    REdrigAez, GraWdEW AWgeX     |     Active      |
+| 162  |  WFS000200  |           Xee, XaCar            |     Active      |
+| 173  |  WFS000200  |           Xee, XaCar            |     Active      |
+| 176  |  WFS000200  |           Xee, XaCar            |     Active      |
++------+-------------+---------------------------------+-----------------+
+
+Employees who have worked for more than 14 hours in a single shift:
++------+-------------+-----------------------------------+-----------------+
+|      | Position ID |           Employee Name           | Position Status |
++------+-------------+-----------------------------------+-----------------+
+| 1464 |  WFS000588  |     AGeX, WaMhaW REGerM PeWa      |     Active      |
+| 1466 |  WFS000588  |     AGeX, WaMhaW REGerM PeWa      |     Active      |
+| 1468 |  WFS000588  |     AGeX, WaMhaW REGerM PeWa      |     Active      |
+| 1470 |  WFS000588  |     AGeX, WaMhaW REGerM PeWa      |     Active      |
+| 1087 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1088 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1090 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1092 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1093 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1094 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1095 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1096 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 1098 |  WFS000541  |        AXcEcer, ECar JesAs        |     Active      |
+| 606  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 608  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 610  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 612  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 614  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 616  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 618  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 620  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 622  |  WFS000457  |          AXvarez, Edgar           |     Active      |
+| 1409 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 1411 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 1413 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 1415 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 1419 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 1421 |  WFS000584  |     ArCeWMa FXEres, JEWaMhaW      |     Active      |
+| 250  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 252  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 253  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 255  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 257  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 259  |  WFS000306  |       ArEsMigAi, AXexaWder        |     Active      |
+| 728  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 730  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 732  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 734  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 736  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 738  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 739  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 740  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+| 742  |  WFS000491  |           ArevaXE, JEse           |     Active      |
+|  72  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  74  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  78  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  80  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  82  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  84  |  WFS000170  |           Arias, FeXipe           |     Active      |
+|  86  |  WFS000170  |           Arias, FeXipe           |     Active      |
+| 970  |  WFS000518  |      ArrAMia, AXexis ArMArE       |     Active      |
+| 972  |  WFS000518  |      ArrAMia, AXexis ArMArE       |     Active      |
+| 974  |  WFS000518  |      ArrAMia, AXexis ArMArE       |     Active      |
+| 976  |  WFS000518  |      ArrAMia, AXexis ArMArE       |     Active      |
+| 1274 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1275 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1277 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1279 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1281 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1283 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 1285 |  WFS000571  |     CAevas ZavaXa, JErge XAis     |     Active      |
+| 842  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 844  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 846  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 848  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 850  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 852  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 854  |  WFS000503  |          CEMMa, Jessica           |     Active      |
+| 746  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 748  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 750  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 752  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 754  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 756  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 758  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 760  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 762  |  WFS000495  |       CErMes, DEAgXas Farid       |     Active      |
+| 588  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 590  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 592  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 596  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 598  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 599  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 600  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 602  |  WFS000456  |         CEreira Jr, JEse          |     Active      |
+| 335  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 337  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 339  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 341  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 342  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 344  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 346  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 348  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+| 350  |  WFS000362  |         CaMXEck, CEhaCCed         |     Active      |
+|  56  |  WFS000153  |         CaMaXaWE, CeghaW          |     Active      |
+|  58  |  WFS000153  |         CaMaXaWE, CeghaW          |     Active      |
+|  59  |  WFS000153  |         CaMaXaWE, CeghaW          |     Active      |
+|  67  |  WFS000153  |         CaMaXaWE, CeghaW          |     Active      |
+|  69  |  WFS000153  |         CaMaXaWE, CeghaW          |     Active      |
+| 652  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 654  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 656  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 658  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 660  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 662  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 664  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 670  |  WFS000463  |        CaXdEWadE, AXfEWsE         |     Active      |
+| 929  |  WFS000514  |        CaraGiXXa, AWMhEWy         |     Active      |
+| 930  |  WFS000514  |        CaraGiXXa, AWMhEWy         |     Active      |
+| 932  |  WFS000514  |        CaraGiXXa, AWMhEWy         |     Active      |
+| 804  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 806  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 808  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 810  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 812  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 814  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 816  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 818  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 819  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 821  |  WFS000500  |          Caxies, MerreXX          |     Active      |
+| 824  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 826  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 828  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 830  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 832  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 834  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 835  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 836  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 838  |  WFS000501  |       CcRAWWeX, REWaXd Xee        |     Active      |
+| 673  |  WFS000465  |           CeWdEza, Erik           |     Active      |
+| 675  |  WFS000465  |           CeWdEza, Erik           |     Active      |
+| 677  |  WFS000465  |           CeWdEza, Erik           |     Active      |
+| 1045 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 1047 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 1049 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 1050 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 1051 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 1053 |  WFS000528  |       CeciWa, SiXvesMre Jr        |     Active      |
+| 767  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 769  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 771  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 773  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 775  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 776  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 778  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 782  |  WFS000496  |         CercadE, CrisMiaW         |     Active      |
+| 571  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 573  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 577  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 581  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 583  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 585  |  WFS000446  |           CercadE, SaAX           |     Active      |
+| 1113 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1115 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1117 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1119 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1120 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1122 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1123 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 1125 |  WFS000548  |    CesiWa CEreWE, KeviW FaGiaW    |     Active      |
+| 892  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 894  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 896  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 898  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 900  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 902  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 904  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 906  |  WFS000509  |     ChaCErE, HEXger CarMiWez      |     Active      |
+| 1253 |  WFS000566  |    CharXes, EGadiah SEraccE Jr    |     Active      |
+| 1255 |  WFS000566  |    CharXes, EGadiah SEraccE Jr    |     Active      |
+| 1320 |  WFS000574  |     CiGriaW DeXgadE, EXeWa S      |     Active      |
+| 1322 |  WFS000574  |     CiGriaW DeXgadE, EXeWa S      |     Active      |
+| 1323 |  WFS000574  |     CiGriaW DeXgadE, EXeWa S      |     Active      |
+| 1258 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1259 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1261 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1263 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1265 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1267 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1269 |  WFS000569  |   DECiWgAez AviWa, CigAeX AWgeX   |     Active      |
+| 1385 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 1387 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 1389 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 1391 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 1393 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 1395 |  WFS000582  |    De XEs SaWMEs, JEseph XAis     |     Active      |
+| 263  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 265  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 267  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 269  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 271  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 273  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 275  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 277  |  WFS000318  |       De Xa Cerda, IgWaciE        |     Active      |
+| 1027 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1029 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1031 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1033 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1035 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1037 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1039 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 1041 |  WFS000523  |  DeXgadiXXE REdarMe, ChrisMiaW S  |     Active      |
+| 233  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 235  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 237  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 239  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 241  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 243  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 245  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 247  |  WFS000268  |             DiWh, DaA             |     Active      |
+| 979  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 981  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 983  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 985  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 987  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 989  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 991  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 993  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 995  |  WFS000519  |      DiXXard, JEwaWW Cedric       |     Active      |
+| 1164 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1166 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1168 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1170 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1172 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1174 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1176 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1178 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 1180 |  WFS000551  |    Diaz GaXvez, RicardE JEsAe     |     Active      |
+| 874  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 876  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 878  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 880  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 882  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 884  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 886  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 888  |  WFS000508  |         EXivares, FeXCaW          |     Active      |
+| 464  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 466  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 468  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 470  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 472  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 474  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 476  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 478  |  WFS000414  |         EasMCaW, CichaeX          |     Active      |
+| 403  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 405  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 407  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 409  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 411  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 413  |  WFS000382  |          ErEpeza, JEvaW           |     Active      |
+| 554  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 556  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 558  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 560  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 562  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 564  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 566  |  WFS000442  |           ErEzcE, SaAX            |     Active      |
+| 384  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 386  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 388  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 390  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 392  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 394  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 396  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 398  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 400  |  WFS000372  |          ErMiz, AGigaiX           |     Active      |
+| 1183 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1185 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1187 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1189 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1191 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1192 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1194 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1196 |  WFS000552  |        EsMrada, JEse FeXix        |     Active      |
+| 1057 |  WFS000530  |       FaGiaW CiraWda, JEse        |     Active      |
+| 1059 |  WFS000530  |       FaGiaW CiraWda, JEse        |     Active      |
+| 1060 |  WFS000530  |       FaGiaW CiraWda, JEse        |     Active      |
+| 1062 |  WFS000530  |       FaGiaW CiraWda, JEse        |     Active      |
+| 1064 |  WFS000530  |       FaGiaW CiraWda, JEse        |     Active      |
+| 121  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 123  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 125  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 132  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 134  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 136  |  WFS000183  |           FeXix, XeEWeX           |     Active      |
+| 1352 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 1354 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 1356 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 1358 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 1360 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 1362 |  WFS000579  |      GAMierrez, PedrE CigAeX      |     Active      |
+| 695  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 697  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 699  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 701  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 703  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 705  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 707  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 709  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 711  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 713  |  WFS000473  |       GAeWdia, JAaW CarXEs        |     Active      |
+| 182  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 184  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 186  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 188  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 190  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 192  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 194  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 196  |  WFS000226  |           GaWks, GryaW            |     Active      |
+| 198  |  WFS000226  |           GaWks, GryaW            |     Active      |
+|  41  |  WFS000127  |        GaXCes, EXias XEpez        |     Active      |
+|  46  |  WFS000127  |        GaXCes, EXias XEpez        |     Active      |
+| 103  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 105  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 107  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 109  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 111  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 113  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 115  |  WFS000181  |          GarWes, JAsMiW           |     Active      |
+| 936  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 938  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 940  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 941  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 943  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 945  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 947  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 949  |  WFS000515  |       GrACfieXd, CErWeXiAs        |     Active      |
+| 1081 |  WFS000538  |      HAWMer, ViWceWM De PaAX      |     Active      |
+| 1082 |  WFS000538  |      HAWMer, ViWceWM De PaAX      |     Active      |
+| 1083 |  WFS000538  |      HAWMer, ViWceWM De PaAX      |     Active      |
+| 1128 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1130 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1132 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1134 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1136 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1138 |  WFS000549  | HEGGie ErMega, SeGasMiaW CichaeX  |     Active      |
+| 1068 |  WFS000536  |      HaCiXMEW, DeaWMe DevEW       |     Active      |
+| 1070 |  WFS000536  |      HaCiXMEW, DeaWMe DevEW       |     Active      |
+| 1072 |  WFS000536  |      HaCiXMEW, DeaWMe DevEW       |     Active      |
+| 1075 |  WFS000536  |      HaCiXMEW, DeaWMe DevEW       |     Active      |
+| 1077 |  WFS000536  |      HaCiXMEW, DeaWMe DevEW       |     Active      |
+| 140  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 142  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 144  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 146  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 148  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 150  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 152  |  WFS000185  |         HerCEsiXXE, PedrE         |     Active      |
+| 1366 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1368 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1370 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1372 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1374 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1376 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1378 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1380 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1382 |  WFS000581  | HerWaWdez SaWchez, AWdrew AWMhEWy |     Active      |
+| 1102 |  WFS000546  |         IWGEAa, JeffersEW         |     Active      |
+| 1104 |  WFS000546  |         IWGEAa, JeffersEW         |     Active      |
+| 1106 |  WFS000546  |         IWGEAa, JeffersEW         |     Active      |
+| 1108 |  WFS000546  |         IWGEAa, JeffersEW         |     Active      |
+| 1110 |  WFS000546  |         IWGEAa, JeffersEW         |     Active      |
+| 1239 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 1241 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 1243 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 1245 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 1247 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 1249 |  WFS000557  |    JerEWiCE CEraXes, CarXEs D     |     Active      |
+| 202  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 204  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 205  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 207  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 208  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 209  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 211  |  WFS000228  |          MAake, CasiaWE           |     Active      |
+| 316  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 318  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 320  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 322  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 324  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 328  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 331  |  WFS000360  |          MAcker, CichaeX          |     Active      |
+| 353  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 355  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 357  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 358  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 359  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 360  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+| 364  |  WFS000364  |        MaXeGi, ACirCasEAd         |     Active      |
+|  91  |  WFS000180  |          Merrazas, GriaW          |     Active      |
+|  93  |  WFS000180  |          Merrazas, GriaW          |     Active      |
+|  95  |  WFS000180  |          Merrazas, GriaW          |     Active      |
+|  97  |  WFS000180  |          Merrazas, GriaW          |     Active      |
+|  99  |  WFS000180  |          Merrazas, GriaW          |     Active      |
+| 295  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 297  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 299  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 303  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 305  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 307  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 309  |  WFS000345  |         MraW, WiXXiaC Ha          |     Active      |
+| 625  |  WFS000460  |            PaAXE, KyXe            |     Active      |
+| 627  |  WFS000460  |            PaAXE, KyXe            |     Active      |
+| 629  |  WFS000460  |            PaAXE, KyXe            |     Active      |
+| 631  |  WFS000460  |            PaAXE, KyXe            |     Active      |
+| 633  |  WFS000460  |            PaAXE, KyXe            |     Active      |
+| 537  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 539  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 541  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 543  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 545  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 547  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 549  |  WFS000434  |         PaXaciE, JEWaMhaW         |     Active      |
+| 368  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 370  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 372  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 373  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 374  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 378  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 380  |  WFS000368  |           PayaW, DaWieX           |     Active      |
+| 953  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 955  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 957  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 959  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 961  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 963  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 965  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 967  |  WFS000517  |       Perez, EdwiW JiCeWez        |     Active      |
+| 680  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 682  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 683  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 685  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 687  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 689  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 691  |  WFS000469  |         PerkiWs, MarraWce         |     Active      |
+| 1221 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1223 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1225 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1227 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1229 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1231 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 1233 |  WFS000556  | RAvaXcaGa GaWAeXEs, DaWieX JesAs  |     Active      |
+| 492  |  WFS000420  |          RECerE, SergiE           |     Active      |
+| 858  |  WFS000505  |    REdrigAez, AXexis GAMierrez    |     Active      |
+| 860  |  WFS000505  |    REdrigAez, AXexis GAMierrez    |     Active      |
+| 1142 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1144 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1146 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1152 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1154 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1156 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 1158 |  WFS000550  |     REdrigAez, GraWdEW AWgeX      |     Active      |
+| 280  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 282  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 284  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 285  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 286  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 288  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 290  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 292  |  WFS000336  |         REdrigAez, PedrE          |     Active      |
+| 444  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 446  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 448  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 450  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 452  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 454  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 457  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+| 459  |  WFS000412  |          REdrigAez, XAis          |     Active      |
+|  2   |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  6   |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  8   |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  10  |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  12  |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  14  |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+|  16  |  WFS000065  |          REsaXiaWE, XAis          |     Active      |
+| 1427 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1429 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1431 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1433 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1435 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1437 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1439 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 1441 |  WFS000585  |    RaCEs HerWaWdez, AdieX ECar    |     Active      |
+| 863  |  WFS000507  |      Rivera AXcaWMar, GrayaW      |     Active      |
+| 865  |  WFS000507  |      Rivera AXcaWMar, GrayaW      |     Active      |
+| 867  |  WFS000507  |      Rivera AXcaWMar, GrayaW      |     Active      |
+| 869  |  WFS000507  |      Rivera AXcaWMar, GrayaW      |     Active      |
+| 871  |  WFS000507  |      Rivera AXcaWMar, GrayaW      |     Active      |
+| 1201 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1203 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1205 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1207 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1209 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1211 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1213 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1215 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 1217 |  WFS000555  |     SMrickXaWd, REdWey EAgeWe     |     Active      |
+| 999  |  WFS000521  | SaWchez PaCpXEWa, CrisMiaW AXGerM |     Active      |
+| 1001 |  WFS000521  | SaWchez PaCpXEWa, CrisMiaW AXGerM |     Active      |
+| 1003 |  WFS000521  | SaWchez PaCpXEWa, CrisMiaW AXGerM |     Active      |
+| 1005 |  WFS000521  | SaWchez PaCpXEWa, CrisMiaW AXGerM |     Active      |
+| 1329 |  WFS000577  |         SaWchez, ArWAXfE          |     Active      |
+| 1333 |  WFS000577  |         SaWchez, ArWAXfE          |     Active      |
+| 1337 |  WFS000577  |         SaWchez, ArWAXfE          |     Active      |
+| 432  |  WFS000393  |           SavaWg, JEhW            |     Active      |
+| 434  |  WFS000393  |           SavaWg, JEhW            |     Active      |
+| 436  |  WFS000393  |           SavaWg, JEhW            |     Active      |
+| 438  |  WFS000393  |           SavaWg, JEhW            |     Active      |
+| 515  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 517  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 519  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 521  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 523  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 525  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 527  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 529  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 531  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 533  |  WFS000426  |         SiWgXeMEW, REger          |     Active      |
+| 483  |  WFS000418  |          SiWgh, CaWpreeM          |     Active      |
+| 484  |  WFS000418  |          SiWgh, CaWpreeM          |     Active      |
+| 486  |  WFS000418  |          SiWgh, CaWpreeM          |     Active      |
+| 488  |  WFS000418  |          SiWgh, CaWpreeM          |     Active      |
+| 495  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 497  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 503  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 505  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 507  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 509  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 511  |  WFS000424  |          SiWgh, JaspreeM          |     Active      |
+| 219  |  WFS000246  |         SiWgh, MarAWpreeM         |     Active      |
+| 221  |  WFS000246  |         SiWgh, MarAWpreeM         |     Active      |
+| 223  |  WFS000246  |         SiWgh, MarAWpreeM         |     Active      |
+| 226  |  WFS000246  |         SiWgh, MarAWpreeM         |     Active      |
+| 228  |  WFS000246  |         SiWgh, MarAWpreeM         |     Active      |
+|  21  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  23  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  25  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  27  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  29  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  31  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  35  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  36  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+|  37  |  WFS000101  |          Sparks, KeWWeMh          |     Active      |
+| 1309 |  WFS000573  | VaXderraCa CasMiXXE, Escar FaGiaW |     Active      |
+| 1311 |  WFS000573  | VaXderraCa CasMiXXE, Escar FaGiaW |     Active      |
+| 1313 |  WFS000573  | VaXderraCa CasMiXXE, Escar FaGiaW |     Active      |
+| 1315 |  WFS000573  | VaXderraCa CasMiXXE, Escar FaGiaW |     Active      |
+| 1317 |  WFS000573  | VaXderraCa CasMiXXE, Escar FaGiaW |     Active      |
+| 417  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 419  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 421  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 424  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 425  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 427  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 429  |  WFS000391  |         VasqAez, AXfredE          |     Active      |
+| 1341 |  WFS000578  |      VasqAez, JEhW SeGasMiaW      |     Active      |
+| 1343 |  WFS000578  |      VasqAez, JEhW SeGasMiaW      |     Active      |
+| 1345 |  WFS000578  |      VasqAez, JEhW SeGasMiaW      |     Active      |
+| 1347 |  WFS000578  |      VasqAez, JEhW SeGasMiaW      |     Active      |
+| 1348 |  WFS000578  |      VasqAez, JEhW SeGasMiaW      |     Active      |
+| 1398 |  WFS000583  |       ViXXa, AXfredE AieXXE       |     Active      |
+| 1400 |  WFS000583  |       ViXXa, AXfredE AieXXE       |     Active      |
+| 1402 |  WFS000583  |       ViXXa, AXfredE AieXXE       |     Active      |
+| 1403 |  WFS000583  |       ViXXa, AXfredE AieXXE       |     Active      |
+| 1405 |  WFS000583  |       ViXXa, AXfredE AieXXE       |     Active      |
+| 1474 |  WFS000589  |          WgAyeW, RayCEWd          |     Active      |
+| 1476 |  WFS000589  |          WgAyeW, RayCEWd          |     Active      |
+| 1478 |  WFS000589  |          WgAyeW, RayCEWd          |     Active      |
+| 1480 |  WFS000589  |          WgAyeW, RayCEWd          |     Active      |
+| 910  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 912  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 914  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 915  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 917  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 919  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 921  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 925  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 926  |  WFS000511  |         WiXXiaCs, MyrreXX         |     Active      |
+| 1009 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1013 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1015 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1017 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1019 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1021 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1023 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1024 |  WFS000522  |         XEpez WAWez, XAis         |     Active      |
+| 1291 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1293 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1295 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1297 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1299 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1301 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1303 |  WFS000572  |  XariEs XaWdaverde, XAis ErWesME  |     Active      |
+| 1444 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1446 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1448 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1450 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1452 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1454 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1456 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 1460 |  WFS000587  |      XariEs, Cesar GiEvaWWi       |     Active      |
+| 160  |  WFS000200  |            Xee, XaCar             |     Active      |
+| 167  |  WFS000200  |            Xee, XaCar             |     Active      |
+| 169  |  WFS000200  |            Xee, XaCar             |     Active      |
+| 171  |  WFS000200  |            Xee, XaCar             |     Active      |
+| 178  |  WFS000200  |            Xee, XaCar             |     Active      |
+| 637  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 639  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 641  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 643  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 645  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 647  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 649  |  WFS000462  |           XiWW, JAsMiW            |     Active      |
+| 785  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 787  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 789  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 791  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 793  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 795  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 797  |  WFS000499  |          ZaCEra, CigAeX           |     Active      |
+| 717  |  WFS000477  |          ZaCEra, Edward           |     Active      |
+| 718  |  WFS000477  |          ZaCEra, Edward           |     Active      |
+| 720  |  WFS000477  |          ZaCEra, Edward           |     Active      |
+| 722  |  WFS000477  |          ZaCEra, Edward           |     Active      |
+| 724  |  WFS000477  |          ZaCEra, Edward           |     Active      |
++------+-------------+-----------------------------------+-----------------+
+
